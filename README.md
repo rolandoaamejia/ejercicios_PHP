@@ -1,2 +1,2 @@
 # Ejercicios_basicos_PHP
- ejercicios de ejemplo basicos con PHP
+ Estos son ejemplos basicos de operaciones usando el lenguaje PHP 
